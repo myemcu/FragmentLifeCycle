@@ -4,6 +4,10 @@
     <string name="show">你好,我是主页面</string>
 
     <!-- TODO: Remove or change this placeholder text -->
+
     <string name="hello_blank_fragment">你好，我是fragment.</string>
+
+    <string name="contact">联系人列表Fragment</string>
+    <string name="message">联系人信息Fragment</string>
 
 </resources>
