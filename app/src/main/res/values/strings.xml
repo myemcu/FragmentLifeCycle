@@ -9,5 +9,6 @@
 
     <string name="contact">联系人列表Fragment</string>
     <string name="message">联系人信息Fragment</string>
+    <string name="swap">切换分区</string>
 
 </resources>
